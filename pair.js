@@ -72,8 +72,8 @@ Wanna talk to me?👉https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 deploy bot 👉 https://github.com/bmb200/B.M.B-XMD 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-contact me1 👉255772341432👈
-contact me2 👉25541752020👈
+contact me1 👉 255772341432 👈
+contact me2 👉 25541752020 👈
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2025-2050 𝙱.𝙼.𝙱-𝚇𝙼𝙳*
