@@ -60,19 +60,24 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┃B.M.B-XMD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+❶ || Creator = 𖥘 BMB XMD 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+Wanna talk to me?👉 https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+deploy bot 👉https://github.com/bmb200/B.M.B-XMD👈
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+contact me1 👉255772341432
+contact me2 👉255741752020
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+©*2025-2050 𝙱.𝙼.𝙱-𝚇𝙼𝙳*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
