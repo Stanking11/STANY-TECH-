@@ -58,21 +58,21 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃STANY-TECH-XMD SESSION IS 
+┃B.M.B-XMD✨ SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃CONNECTED ✅💯
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 STANY XMD 𖥘
+❶ || Creator = 𖥘 𝙱.𝙼.𝙱-𝚇𝙼𝙳 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb8ixZ6DOQIPoX014p1k
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://github.com/Stanking11/STANY-TECH-T-XMD 👈
+Wanna talk to me?👉 https://github.com/bmb200/B.M.B-XMD 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-contact me 👉 https://wa.link/8v4huy 👈
+contact me 👉 https://wa.link/nx5rq8 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2025-2050 stany xmd*
+©*2025-2050 𝙱.𝙼.𝙱-𝚇𝙼𝙳*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
