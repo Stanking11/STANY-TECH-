@@ -57,24 +57,31 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
+
 ┏━━━━━━━━━━━━━━
-┃B.M.B-XMD✨ SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅💯
+┃𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚇𝙼𝙳❤️
+┃𝙰𝙻𝚁𝙴𝙳𝚈 𝙻𝙸𝙽𝙺𝙴𝙳✅
+┃𝚂𝙰𝙵𝙴 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈💯
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 𝙱.𝙼.𝙱-𝚇𝙼𝙳 𖥘
+1®|| DEVELOPER 
+©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M
+2®|| OUR FAMILY  
+https://whatsapp.com/channel/0029Vb8ixZ6DOQIPoX014p1k
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
-Wanna talk to me?👉 https://github.com/bmb200/B.M.B-XMD 👈
+Please Subscribe My YouTube Channel
+<https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq>
+-------------------------
+Chart with me 
+https://wa.link/7pacy2
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-contact me 👉 https://wa.link/nx5rq8 👈
+Join our Crayz family 
+chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2025-2050 𝙱.𝙼.𝙱-𝚇𝙼𝙳*
+©STANY-TECH™ 𝟸𝟶𝟸𝟻 𝙰𝙸 𝚆𝙾𝚁𝙻𝙳
 
-_Don't Forget To Give Star To My Repo_`
+_Thank you For Choosing Us Welcome Back_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
